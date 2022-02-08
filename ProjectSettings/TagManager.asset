@@ -3,16 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BULLET
+  - PLAYER
+  - PUNCH
+  - MONSTER
+  - HP_BAR
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - BARREL
   - Water
   - UI
-  - 
-  - 
+  - MONSTER_BODY
+  - MONSTER_PUNCH
   - 
   - 
   - 
